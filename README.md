@@ -7,6 +7,8 @@ Dear COMP 10259 Student, these are your tasks:
 - Create a file called "goodbye.txt", and give it the contents "Goodbye, World!"
 - Commit and push your changes.
 
+What follows is a description of GitHub by GitHub itself.  
+
 # The Basics of GitHub 
 
 ## Course overview and learning outcomes 
